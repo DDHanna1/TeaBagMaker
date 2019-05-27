@@ -80,7 +80,6 @@
             this.label1.Size = new System.Drawing.Size(188, 16);
             this.label1.TabIndex = 3;
             this.label1.Text = "2019-05-27   3516 정한나";
-            this.label1.Click += new System.EventHandler(this.Label1_Click);
             // 
             // LabResult
             // 
