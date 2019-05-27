@@ -86,7 +86,7 @@
             // 
             this.LabResult.AutoSize = true;
             this.LabResult.Font = new System.Drawing.Font("굴림", 16F);
-            this.LabResult.Location = new System.Drawing.Point(11, 226);
+            this.LabResult.Location = new System.Drawing.Point(13, 227);
             this.LabResult.Name = "LabResult";
             this.LabResult.Size = new System.Drawing.Size(125, 22);
             this.LabResult.TabIndex = 4;
